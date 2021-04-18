@@ -5,7 +5,7 @@ set -e
 # TODO: Set to URL of git repo.
 PROJECT_GIT_URL='https://github.com/iadaba/profiles-rest-api.git'
 
-PROJECT_BASE_PATH='/usr/local/apps/rest-api'
+PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
 echo "Installing dependencies..."
 apt-get update
